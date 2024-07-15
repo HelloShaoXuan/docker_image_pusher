@@ -1,2 +1,3 @@
 redis:latest
 wurstmeister/kafka
+nginx:latest
