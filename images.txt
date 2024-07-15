@@ -1,2 +1,2 @@
 redis:latest
-kafka:latest
+wurstmeister/kafka
