@@ -2,3 +2,4 @@ redis:latest
 wurstmeister/kafka
 nginx:latest
 mysql:latest
+elasticsearch:latest
